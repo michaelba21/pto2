@@ -1,0 +1,7 @@
+Make setup easier and improve error handling for new developers
+
+Implements in-memory storage fallback, adds .env example, and provides a setup guide.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 78520087-de5c-4f4c-9860-dd1214bc2100
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/3f30cf86-4f00-4d81-a81f-75a69aa84b29/648502b2-8bf6-4000-8a00-2993d30e6622.jpg

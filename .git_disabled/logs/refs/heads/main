@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 e893ada7285b0c581b98219c10ac24050bad1d29 jackfinally0 <37989099-jackfinally0@users.noreply.replit.com> 1750373415 +0000	commit (initial): Initial commit
+e893ada7285b0c581b98219c10ac24050bad1d29 9a50eb40bd147fd12bc964766d57bd35ccd5393b jackfinally0 <37989099-jackfinally0@users.noreply.replit.com> 1750373707 +0000	commit: Set up the project with core files, components, and UI library
+9a50eb40bd147fd12bc964766d57bd35ccd5393b 99a1ad67bd10511c8bd0835c620c2ae389a2134a jackfinally0 <37989099-jackfinally0@users.noreply.replit.com> 1750374368 +0000	commit: Include Google Fonts for a consistent look across the whole website
+99a1ad67bd10511c8bd0835c620c2ae389a2134a b7152e5b023588bf560e340a19497bdc6c64830b jackfinally0 <37989099-jackfinally0@users.noreply.replit.com> 1750374464 +0000	commit: Store user data and contact form submissions in a persistent database
+b7152e5b023588bf560e340a19497bdc6c64830b 001ff0a704ad66abcd28e00cdc64f362a4c67b33 jackfinally0 <37989099-jackfinally0@users.noreply.replit.com> 1750374668 +0000	commit: Provide clear instructions for setting up and running the website locally
+001ff0a704ad66abcd28e00cdc64f362a4c67b33 8745f95313716ef91de9d7ecb693df9e39abc5b3 jackfinally0 <37989099-jackfinally0@users.noreply.replit.com> 1750413781 +0000	commit: Make setup easier and improve error handling for new developers
