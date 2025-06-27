@@ -18,6 +18,8 @@ app.use(
             "http://localhost:5174",
             "http://localhost:5175",
             "http://localhost:5176",
+            /https:\/\/.*\.replit\.dev$/,
+            /https:\/\/.*\.replit\.app$/,
           ]
         : process.env.PRODUCTION_URL,
     credentials: true,
